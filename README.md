@@ -26,5 +26,5 @@
 
 [こちら](https://colab.research.google.com/github/uemotota/Colab/blob/master/List.ipynb)を開いて，Google Colabolatory上で上記以外のPythonの構文を学習します．
 
+これらの説明だけでは足りなかった時用[こちら](https://qiita.com/AI_Academy/items/b97b2178b4d10abe0adb)
 
-以下略
