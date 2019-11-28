@@ -106,7 +106,7 @@ Passward:  入力欄
 
 ### 3.その他Pythonの基本など
 
-[こちら](https://colab.research.google.com/github/uemotota/Colab/blob/master/List.ipynb)を開いて，Google Colabolatory上で上記以外のPythonの構文を学習します．
+[こちら](https://colab.research.google.com/github/uemotota/Colab/blob/master/py_template.ipynb)を開いて，Google Colabolatory上で上記以外のPythonの構文を学習します．
 
 基本的にはここまでの内容で作成できます.
 これらの説明だけでは足りなかった時の補足[こちら](https://qiita.com/AI_Academy/items/b97b2178b4d10abe0adb)
